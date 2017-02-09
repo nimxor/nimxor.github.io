@@ -1,0 +1,18 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+
+# Setup
+title: Shubham Gupta
+tagline: ''
+description: 'Description'
+baseurl: ''
+paginate: 10
+github_repo: http://github.com/nimxor/
+
+# About/contact
+author:
+  name: Shubham Gupta
+  url: https://twitter.com/shubham190496
+  email: y14uc279@lnmiit.ac.in
+
